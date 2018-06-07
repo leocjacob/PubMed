@@ -9,3 +9,7 @@ pip install biopython
 ```
 # Biopython Documentation
 http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc103
+
+# Error Correction
+run cmd in administrator mode
+git config --system http.sslverify false
